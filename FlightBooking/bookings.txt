@@ -1,0 +1,7 @@
+Booking for swanit: UK844 from GOI to BOM
+Booking[User: Swanit, Email: swanitrivankar@gmail.com, Flight: AB123]
+Booking[User: Swanit, Email: swanitrivankar@gmail.com, Flight: UK514]
+Booking[User: Swanit, Email: swanitrivankar@gmail.com, Flight: SG487]
+Booking[User: Swanit, Email: swanitrivankar@gmail.com, Flight: UK514]
+Booking[User: Swanit, Email: swanitrivankar@gmail.com, Flight: UK514]
+Booking[User: Swanit, Email: swanitrivankar@gmail.com, Flight: UK514]

@@ -1,0 +1,82 @@
+.root{
+	-fx-alignment:center ;
+}
+
+.button { 
+	-fx-background-color : #FFFFFF ;
+	-fx-background-radius : 6;
+	-fx-text-fill: #000000;
+	-fx-font-weight:bold;
+	-fx-padding:5;
+
+	
+}
+.table{
+	-fx-background-color: rgba(0, 0, 0, 0.5);
+}
+
+.label{
+	-fx-text-fill: rgba(255,255,255);
+	-fx-font-weight: bold;
+	-fx-font-size: 15px;
+}
+.hyperlink{
+	-fx-text-fill : #7eebee;
+	-fx-font-size: 13px;
+}
+
+.namevalue{
+	-fx-font-size:20px;
+	-fx-text-fill: #ffffff;
+}
+
+
+/* Set up the main layout */
+.ticket-layout {
+    -fx-padding: 10;
+    -fx-background-color: #d8d3c7; /* Light beige background */
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-spacing: 5;
+}
+
+/* Left Pane (Blank Section) */
+.left-pane {
+    -fx-background-color: #f7f2e9; /* Light beige color */
+    -fx-min-width: 300px;
+    -fx-border-radius: 10 0 0 10;
+    -fx-background-radius: 10 0 0 10;
+}
+
+/* Right Pane (Plane Icon Section) */
+.right-pane {
+    -fx-background-color: #3b6aa0; /* Blue color */
+    -fx-min-width: 100px;
+    -fx-border-radius: 0 10 10 0;
+    -fx-background-radius: 0 10 10 0;
+    -fx-background-image: url("plane_icon.png"); /* Add your plane icon image */
+    -fx-background-size: 70% 70%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.main-container {
+    -fx-background-image: url('file:/C:/Users/swani/Downloads/ticket.jpg');
+    -fx-background-size: contain ;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+    -fx-padding: 20px;
+    -fx-border-color: #d0d0d0;
+}
+
+.payment-container {
+    -fx-background-image: url('file:/C:/Users/swani/Downloads/payment.jpg');
+    -fx-background-size: contain ;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+    -fx-padding: 20px;
+    -fx-border-color: #d0d0d0;
+}
+
+
+
